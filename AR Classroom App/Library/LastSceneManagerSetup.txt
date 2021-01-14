@@ -1,53 +1,33 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
-  isLoaded: 1
-  isActive: 0
-  isSubScene: 0
-- path: Assets/Scenes/corn.unity
-  isLoaded: 1
-  isActive: 0
-  isSubScene: 0
-- path: Assets/Scenes/Donut.unity
+- path: Assets/Scenes/RecycleBin_mixedwaste.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
-- path: Assets/Scenes/Meat.unity
+- path: Assets/Scenes/RecycleBin_Organic.unity
   isLoaded: 1
   isActive: 0
   isSubScene: 0
-- path: Assets/Scenes/potatoes.unity
+- path: Assets/Scenes/RecycleBin_Paper.unity
   isLoaded: 1
   isActive: 0
   isSubScene: 0
-- path: Assets/Scenes/strawberry.unity
+- path: Assets/Scenes/RecycleBin_Plastic.unity
   isLoaded: 1
   isActive: 0
   isSubScene: 0
-- path: Assets/Scenes/tomato.unity
+- path: Assets/Scenes/Ruler.unity
   isLoaded: 1
   isActive: 0
   isSubScene: 0
-- path: Assets/Scenes/deforestation.unity
+- path: Assets/Scenes/Apple.unity
   isLoaded: 1
   isActive: 0
   isSubScene: 0
-- path: Assets/Scenes/desert.unity
+- path: Assets/Scenes/Apricot.unity
   isLoaded: 1
   isActive: 0
   isSubScene: 0
-- path: Assets/Scenes/flood scene.unity
-  isLoaded: 1
-  isActive: 0
-  isSubScene: 0
-- path: Assets/Scenes/plant.unity
-  isLoaded: 1
-  isActive: 0
-  isSubScene: 0
-- path: Assets/Scenes/screw gauge.unity
-  isLoaded: 1
-  isActive: 0
-  isSubScene: 0
-- path: Assets/Scenes/vernier caliper.unity
+- path: Assets/Scenes/Banana.unity
   isLoaded: 1
   isActive: 0
   isSubScene: 0
