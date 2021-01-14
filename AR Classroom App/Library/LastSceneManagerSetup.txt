@@ -1,5 +1,53 @@
 sceneSetups:
 - path: Assets/Scenes/SampleScene.unity
   isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/corn.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/Donut.unity
+  isLoaded: 1
   isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/Meat.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/potatoes.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/strawberry.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/tomato.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/deforestation.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/desert.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/flood scene.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/plant.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/screw gauge.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
+- path: Assets/Scenes/vernier caliper.unity
+  isLoaded: 1
+  isActive: 0
   isSubScene: 0
