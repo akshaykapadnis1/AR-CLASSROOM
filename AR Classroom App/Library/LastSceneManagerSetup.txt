@@ -1,33 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/RecycleBin_mixedwaste.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
-- path: Assets/Scenes/RecycleBin_Organic.unity
-  isLoaded: 1
-  isActive: 0
-  isSubScene: 0
-- path: Assets/Scenes/RecycleBin_Paper.unity
-  isLoaded: 1
-  isActive: 0
-  isSubScene: 0
-- path: Assets/Scenes/RecycleBin_Plastic.unity
-  isLoaded: 1
-  isActive: 0
-  isSubScene: 0
-- path: Assets/Scenes/Ruler.unity
-  isLoaded: 1
-  isActive: 0
-  isSubScene: 0
 - path: Assets/Scenes/Apple.unity
   isLoaded: 1
-  isActive: 0
-  isSubScene: 0
-- path: Assets/Scenes/Apricot.unity
-  isLoaded: 1
-  isActive: 0
-  isSubScene: 0
-- path: Assets/Scenes/Banana.unity
-  isLoaded: 1
-  isActive: 0
+  isActive: 1
   isSubScene: 0
