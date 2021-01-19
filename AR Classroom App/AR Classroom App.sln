@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+<<<<<<< HEAD
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanTouch", "LeanTouch.csproj", "{6442d9b6-35d7-d999-1c16-fac29a41b479}"
+=======
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanTouch", "LeanTouch.csproj", "{B6D94264-D735-99D9-1C16-FAC29A41B479}"
+>>>>>>> aa84d05f50a800f2778344c834b898d11ef29a8b
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeanCommon", "LeanCommon.csproj", "{e1bd49f7-d6ac-d92c-ea87-ecd04d1730a0}"
 EndProject
