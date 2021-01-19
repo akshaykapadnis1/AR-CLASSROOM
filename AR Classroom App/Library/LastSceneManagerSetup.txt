@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Apricot.unity
+- path: Assets/Scenes/woolen t-shitrs.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
