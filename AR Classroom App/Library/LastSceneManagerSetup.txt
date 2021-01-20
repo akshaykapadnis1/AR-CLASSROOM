@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/bulb.unity
+- path: Assets/Scenes/magnet 1.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
